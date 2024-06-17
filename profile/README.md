@@ -1,4 +1,4 @@
-![SkyPath.io | The world’s leading turbulence and auto-PIREPS data source](./profile/logo.png)
+![SkyPath.io | The world’s leading turbulence and auto-PIREPS data source](./logo.png)
 
 ## SkyPath, Your Ride Quality Partner
 
