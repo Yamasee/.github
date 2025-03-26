@@ -6,6 +6,6 @@ Guiding you in Navigating Turbulence. Unveiling the Safest Routes. Utilizing up-
 
 [Visit our website to learn more](https://skypath.io/)
 
-[Start a trial](https://skypath.io/trial/)
+[Start a trial](https://skypath.io/start_a_trial/)
 
 [Browse our technical docs](https://docs.skypath.io/)
