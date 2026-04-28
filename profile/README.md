@@ -4,8 +4,4 @@
 
 Guiding you in Navigating Turbulence. Unveiling the Safest Routes. Utilizing up-to-the-minute turbulence data, PIREP reports, and ML predictions.
 
-[Visit our website to learn more](https://skypath.io/)
-
-[Start a trial](https://skypath.io/start_a_trial/)
-
-[Browse our technical docs](https://docs.skypath.io/)
+[VISIT OUR WEBSITE](https://skypath.io/) | [START A TRIAL](https://skypath.io/start-a-trial) | [BROWSE TECHNICAL DOCS](https://docs.skypath.io/)
